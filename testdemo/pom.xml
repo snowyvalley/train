@@ -4,4 +4,6 @@
   <artifactId>testdemo</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>war</packaging>
+  <developers>
+  <developer></developer></developers>
 </project>
